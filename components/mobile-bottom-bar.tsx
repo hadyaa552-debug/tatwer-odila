@@ -4,7 +4,7 @@ import { Phone, UserPlus } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export default function MobileBottomBar() {
-  const phoneNumber = "+201515667777"
+  const phoneNumber = "+201281984450"
 
   const scrollToForm = () => {
     const formElement = document.getElementById("contact-form")
