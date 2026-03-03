@@ -27,8 +27,8 @@ export default function Header() {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
-  const phoneNumber = "+201515667777"
-  const displayNumber = "01515667777"
+  const phoneNumber = "+201281984450"
+  const displayNumber = "01281984450"
 
   const handleScroll = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
     e.preventDefault()
